@@ -16,3 +16,10 @@ This folder contains resources for the **Physics-Informed Neural Networks (PINNs
 This folder contains resources for the **Variational Physics-Informed Neural Networks (vPINNs)** workshop. The vPINNs approach extends the traditional PINNs framework by incorporating variational principles to improve the accuracy and efficiency of solving PDEs and inverse problems.
 
 - More details and resources for this workshop will be available here.
+
+## References
+
+1. Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. *Journal of Computational Physics*, 378, 686-707. [DOI](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
+
+2. Anandh, T., Ghose, D., & Ganesan, S. (2024). FastVPINNs: An efficient tensor-based Python library for solving partial differential equations using hp-Variational Physics Informed Neural Networks. *Journal of Open Source Software*, 9(99), 6764. [DOI](https://joss.theoj.org/papers/10.21105/joss.06764.pdf)
+
