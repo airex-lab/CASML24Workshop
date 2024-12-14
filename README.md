@@ -1,6 +1,14 @@
 # CASML24Workshop
 Material for the preconference workshop on Scientific Machine Learning at the International Conference on Applied AI and Scientific Machine Learning (CASML) 2024
 
+## Numpy-Tensorflow_workshop
+
+- [Numpy Notebook](Numpy_tensorflow_workshop/Numpy.ipynb)  
+  This notebook demonstrates the basics of numpy
+  
+- [Tensorflow Notebook](Numpy_tensorflow_workshop/Tensorflow.ipynb)  
+  This notebook demonstrates the basics of numpy
+
 ## PINNs_workshop
 
 This folder contains resources for the **Physics-Informed Neural Networks (PINNs)** workshop. It includes two Jupyter notebooks that demonstrate different aspects of solving forward and inverse problems using PINNs.
