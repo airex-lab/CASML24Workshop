@@ -7,7 +7,7 @@ Material for the preconference workshop on Scientific Machine Learning at the In
   This notebook demonstrates the basics of numpy
   
 - [Tensorflow Notebook](Numpy_tensorflow_workshop/Tensorflow.ipynb)  
-  This notebook demonstrates the basics of numpy
+  This notebook demonstrates the basics of tensorflow
 
 ## PINNs_workshop
 
