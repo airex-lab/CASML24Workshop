@@ -37,6 +37,12 @@ This folder contains resources for the hp-Variational Physics-Informed Neural Ne
   ```
   - Now, for offline use, navigate to the examples folder -> Notebooks -> `custom_training_poisson.ipynb` and open the notebook in Jupyter Notebook or Jupyter Lab.
   - For online use, click on the `Open in Colab` button to open the notebook in Google Colab.
+
+## Navier Stokes 2D Workshop
+
+- [Falkner-Skan Notebook](https://colab.research.google.com/github/airex-lab/CASML24Workshop/blob/main/NSE_2D_workshop/PINNs_FS.ipynb)  
+  This notebook demonstrates the solution of a Falkner-Skan Boundary layer using PINNs.
+
 ## References
 
 1. Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. *Journal of Computational Physics*, 378, 686-707. [DOI](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
