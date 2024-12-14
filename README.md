@@ -3,20 +3,20 @@ Material for the preconference workshop on Scientific Machine Learning at the In
 
 ## Numpy-Tensorflow_workshop
 
-- [Numpy Notebook](Numpy_tensorflow_workshop/Numpy.ipynb)  
+- [Numpy Notebook](https://colab.research.google.com/github/airex-lab/CASML24Workshop/blob/main/Numpy_tensorflow_workshop/Numpy.ipynb)  
   This notebook demonstrates the basics of numpy
   
-- [Tensorflow Notebook](Numpy_tensorflow_workshop/Tensorflow.ipynb)  
+- [Tensorflow Notebook](https://colab.research.google.com/github/airex-lab/CASML24Workshop/blob/main/Numpy_tensorflow_workshop/Tensorflow.ipynb)  
   This notebook demonstrates the basics of tensorflow
 
 ## PINNs_workshop
 
 This folder contains resources for the **Physics-Informed Neural Networks (PINNs)** workshop. It includes two Jupyter notebooks that demonstrate different aspects of solving forward and inverse problems using PINNs.
 
-- [Forward Problem Notebook](PINNs_workshop/forward_problem.ipynb)  
+- [Forward Problem Notebook](https://colab.research.google.com/github/airex-lab/CASML24Workshop/blob/main/PINNs_workshop/forward_problem.ipynb)  
   This notebook demonstrates the solution of a forward problem using PINNs, focusing on the application of neural networks to solve partial differential equations (PDEs).
   
-- [Inverse Problem Notebook](PINNs_workshop/inverse_problem.ipynb)  
+- [Inverse Problem Notebook](https://colab.research.google.com/github/airex-lab/CASML24Workshop/blob/main/PINNs_workshop/inverse_problem.ipynb)  
   This notebook explores the solution of an inverse problem using PINNs, where the goal is to infer unknown parameters or functions from data.
 
 ## vPINNs_workshop
