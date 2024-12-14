@@ -23,7 +23,6 @@ This folder contains resources for the **Physics-Informed Neural Networks (PINNs
 
 This folder contains resources for the **Variational Physics-Informed Neural Networks (vPINNs)** workshop. The vPINNs approach extends the traditional PINNs framework by incorporating variational principles to improve the accuracy and efficiency of solving PDEs and inverse problems.
 
-[Notebook link](https://notebooks.gesis.org/binder/jupyter/user/airex-lab-casml24workshop-s35fmq2i/lab)
 
 - More details and resources for this workshop will be available here.
 
