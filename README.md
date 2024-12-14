@@ -7,7 +7,12 @@ In this section, we will look at the basics required to get started with Tensorf
 
 Repository Link: [Click Here](https://github.com/thivinanandh/Teaching-Python)
 
-Navigate to `Python-Libraries` ( [link](https://github.com/thivinanandh/Teaching-Python/tree/main/Python-Libraries) )folder and open the Numpy and Tensorflow notebooks. Each of the notebook has "open in colab" button which will open the notebook in Google Colab.
+Navigate to `Python-Libraries` ( [link](https://github.com/thivinanandh/Teaching-Python/tree/main/Python-Libraries) )folder and open the Numpy and Tensorflow notebooks. Each of the notebook has "open in colab" button which will open the notebook in Google Colab. 
+
+Easy Access links
+
+- [Numpy](https://github.com/thivinanandh/Teaching-Python/blob/main/Python-Libraries/Numpy.ipynb)
+- [Tensorflow](https://github.com/thivinanandh/Teaching-Python/blob/main/Python-Libraries/Tensorflow.ipynb)
 
 ## PINNs_workshop
 
