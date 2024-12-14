@@ -1,13 +1,13 @@
 # CASML24Workshop
 Material for the preconference workshop on Scientific Machine Learning at the International Conference on Applied AI and Scientific Machine Learning (CASML) 2024
 
-## Numpy-Tensorflow_workshop
+## Basics of Tensorflow and Numpy
 
-- [Numpy Notebook](https://colab.research.google.com/github/airex-lab/CASML24Workshop/blob/main/Numpy_tensorflow_workshop/Numpy.ipynb)  
-  This notebook demonstrates the basics of numpy
-  
-- [Tensorflow Notebook](https://colab.research.google.com/github/airex-lab/CASML24Workshop/blob/main/Numpy_tensorflow_workshop/Tensorflow.ipynb)  
-  This notebook demonstrates the basics of tensorflow
+In this section, we will look at the basics required to get started with Tensorflow and Numpy. These will be the building blocks for developing Physics-Informed Neural Networks (PINNs) and Variational Physics-Informed Neural Networks (vPINNs).
+
+Repository Link: [Click Here](https://github.com/thivinanandh/Teaching-Python)
+
+Navigate to `Python-Libraries` ( [link](https://github.com/thivinanandh/Teaching-Python/tree/main/Python-Libraries) )folder and open the Numpy and Tensorflow notebooks. Each of the notebook has "open in colab" button which will open the notebook in Google Colab.
 
 ## PINNs_workshop
 
@@ -19,13 +19,19 @@ This folder contains resources for the **Physics-Informed Neural Networks (PINNs
 - [Inverse Problem Notebook](https://colab.research.google.com/github/airex-lab/CASML24Workshop/blob/main/PINNs_workshop/inverse_problem.ipynb)  
   This notebook explores the solution of an inverse problem using PINNs, where the goal is to infer unknown parameters or functions from data.
 
-## vPINNs_workshop
+## hp-VPINNs
 
-This folder contains resources for the **Variational Physics-Informed Neural Networks (vPINNs)** workshop. The vPINNs approach extends the traditional PINNs framework by incorporating variational principles to improve the accuracy and efficiency of solving PDEs and inverse problems.
+This folder contains resources for the hp-Variational Physics-Informed Neural Networks (hp-VPINNs)
 
-
-- More details and resources for this workshop will be available here.
-
+- Visit the FastVPINNs repository [here](https://github.com/cmgcds/fastvpinns)
+- `Fork` the repository to your GitHub account by clicking on the `Fork` button on the top right corner of the repository page.
+- Navigate to the forked repository in your GitHub account and click on the `Code` button to copy the repository URL.
+- Now, open your terminal and clone the repository to your local machine using the following command:
+  ```bash
+  git clone https://github.com/cmgcds/fastvpinns.git
+  ```
+  - Now, for offline use, navigate to the examples folder -> Notebooks -> `custom_training_poisson.ipynb` and open the notebook in Jupyter Notebook or Jupyter Lab.
+  - For online use, click on the `Open in Colab` button to open the notebook in Google Colab.
 ## References
 
 1. Raissi, M., Perdikaris, P., & Karniadakis, G. E. (2019). Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations. *Journal of Computational Physics*, 378, 686-707. [DOI](https://www.sciencedirect.com/science/article/pii/S0021999118307125)
