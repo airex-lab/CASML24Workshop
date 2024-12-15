@@ -43,7 +43,7 @@ This folder contains resources for the hp-Variational Physics-Informed Neural Ne
 - [Falkner-Skan Notebook](https://colab.research.google.com/github/airex-lab/CASML24Workshop/blob/main/NSE_2D_workshop/PINNs_FS.ipynb)  
   This notebook demonstrates the solution of a Falkner-Skan Boundary layer using PINNs.
 
-  ## Neural Operators
+## Neural Operators
 
 - [FNO Notebook](https://colab.research.google.com/drive/1IOSiRj2v3O78VpCn5IKYphp8vpAa1Tff?usp=sharing)
   This notebook shows Fourier Neural Operators (FNO) to solve partial differential equations (PDEs) for tasks like the 1D Burgers equation.
