@@ -45,7 +45,7 @@ This folder contains resources for the hp-Variational Physics-Informed Neural Ne
 
 ## Neural Operators
 
-- [FNO Notebook](https://colab.research.google.com/drive/1IOSiRj2v3O78VpCn5IKYphp8vpAa1Tff?usp=sharing)
+- [FNO Notebook](https://colab.research.google.com/github.com/airex-lab/CASML24Workshop/blob/main/Neural_operators/CASML_2024_Day_2_Hands_on_Neural_Operators.ipynb)
   This notebook shows Fourier Neural Operators (FNO) to solve partial differential equations (PDEs) for tasks like the 1D Burgers equation.
 
 ## References
